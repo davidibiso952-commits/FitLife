@@ -77,16 +77,12 @@ _ _ _
 **GitHub Repository:**
 
 
-
-**
-
-
 _ _ _
 
-## 📦 Thinkable Project
+# 📦 Thunkable Project
 
-FitLife was developed using
-Thinkable.
+FitLife was created using
+Thunkable.
 
 [Open the FitLife Thunkable
 project](https://ai.thunkable.com/copy/c18788834109df2ca78d9bc5d47cb49f)
