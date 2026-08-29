@@ -87,6 +87,9 @@ _ _ _
 FitLife was developed using
 Thinkable.
 
+[Open the FitLife Thunkable
+project](https://ai.thunkable.com/copy/c18788834109df2ca78d9bc5d47cb49f)
+
 The Thinkable project contains the 
 application's original project structure and can be used to view,
 edit, and further develop the app.
