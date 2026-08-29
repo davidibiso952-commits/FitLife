@@ -4,7 +4,10 @@
 FitLife is a personal fitness
 application designed to help users
 build
-healthy exercise habits, stay motivated, and manage their fitness journey based on their weight in a simple and accessible way.
+healthy exercise habits, stay
+motivated, and manage their fitness
+journey based on their weight in a
+simple and accessible way.
 
 _ _ _
 
@@ -72,12 +75,11 @@ continue working toward your
 fitness goals.
 _ _ _
 
-## 🔗 Project/ Demo
-
-**GitHub Repository:**
-
-
-_ _ _
+## 🔗 Project Links
+- **Thunkable Project:** [Open
+FitLife Project]
+(https://ai.thunkable.com/copy/c18788834109df2ca78d9bc5d47cb49f)
+- **Demo:** Coming soon
 
 # 📦 Thunkable Project
 
