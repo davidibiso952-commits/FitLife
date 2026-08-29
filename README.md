@@ -1,4 +1,5 @@
-Thinkable# Your Personal Trainer
+# 💪 FitLife
+### Your Personal Trainer
 
 FitLife is a personal fitness
 application designed to help users
